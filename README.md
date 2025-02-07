@@ -4,11 +4,9 @@
 Implementation and Inference pipeline for [DeepAllo](https://www.biorxiv.org/content/10.1101/2024.10.09.617427v1)
 
 - [Quick Start](#quick-start)
-- [Description](#description)
-- [Training & Hardware](#training-hardware)
 - [Results](#results)
 - [Requirements](#requirements)
-- [Data](#data)
+- [Citation](#citation)
 
 ## Quick Start
 1. Create Environment
@@ -48,9 +46,7 @@ pip install -r requirements.txt
 	journal = {bioRxiv}
 }
 ```
-
 ---
-
 Moaaz Khokhar, Ozlem Keskin, Attila Gursoy:
 
 ![DeepAllo Architecture](assets/main_architecture.png)
