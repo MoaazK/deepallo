@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0129
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5765
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4154
+HEADER 5  - Mean B-factor of pocket residues  : 0.6343
+HEADER 6  - Hydrophobicity Score              : 28.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 133.5226
+HEADER 10  -Pocket volume (convex hull)       : 1.6296
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   6040    C HIS A 767      42.231  44.638  16.524  0.00  0.00           C 0
+ATOM   6025    O LEU A 765      37.479  43.765  14.435  0.00  0.00           O 0
+ATOM   6033    O MET A 766      40.436  46.069  13.372  0.40  5.36           O 0
+ATOM   5715   CB ALA A 728      38.798  43.545  11.411  0.00  0.00           C 0
+ATOM   6063    N ASP A 769      40.435  41.350  17.291  0.00  0.00           N 0
+ATOM   5700  CE2 TYR A 726      39.666  39.848  12.364  0.00  0.00           C 0
+ATOM   6044  ND1 HIS A 767      42.217  48.755  14.580  0.00  0.00           N 0
+ATOM   6041    O HIS A 767      43.328  44.198  16.195  0.57  9.64           O 0
+ATOM   6039   CA HIS A 767      41.692  45.886  15.827  0.00  0.00           C 0
+ATOM   5710  ND2 ASN A 727      43.191  45.224   8.735  0.00  0.00           N 0
+ATOM   5694    O TYR A 726      43.971  40.978  10.996  0.59  8.57           O 0
+ATOM   5698  CD2 TYR A 726      40.982  39.393  12.275  0.00  0.00           C 0
+ATOM   5711    N ALA A 728      40.663  43.091   9.893  0.77  2.19           N 0
+TER
+END

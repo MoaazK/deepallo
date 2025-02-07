@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0437
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6322
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6145
+HEADER 5  - Mean B-factor of pocket residues  : 0.5772
+HEADER 6  - Hydrophobicity Score              : -18.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 130.6637
+HEADER 10  -Pocket volume (convex hull)       : 3.0806
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    418  ND1 HIS A  62       8.197   4.082  46.038  0.50  3.28           N 0
+ATOM    421  NE2 HIS A  62       6.898   5.597  46.823  0.60  1.09           N 0
+ATOM    420  CE1 HIS A  62       6.960   4.337  46.431  0.00  0.00           C 0
+ATOM    408   CB ASP A  61      10.228   7.058  50.876  0.00  0.00           C 0
+ATOM    143  ND2 ASN A  30       3.741   5.546  51.528  0.75  6.56           N 0
+ATOM    106   CG GLU A  26       2.330   3.021  49.410  0.00  0.00           C 0
+ATOM    109  OE2 GLU A  26       2.832   2.789  51.733  0.60  6.43           O 0
+ATOM    141   CG ASN A  30       4.120   6.529  52.332  0.00  0.00           C 0
+ATOM    410  OD1 ASP A  61       9.082   7.953  52.733  0.61  1.07           O 0
+ATOM    142  OD1 ASN A  30       4.572   6.325  53.460  0.56  3.21           O 0
+ATOM    382    O THR A  58       8.681   8.792  48.394  0.00  0.00           O 0
+ATOM    406    C ASP A  61      11.728   5.900  49.251  0.00  0.00           C 0
+ATOM    419  CD2 HIS A  62       8.139   6.170  46.680  0.00  0.00           C 0
+ATOM    407    O ASP A  61      12.246   4.861  49.650  0.69  7.50           O 0
+ATOM    417   CG HIS A  62       8.963   5.218  46.179  0.00  0.00           C 0
+ATOM    412    N HIS A  62      11.259   6.051  48.013  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0881
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0734
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4945
+HEADER 5  - Mean B-factor of pocket residues  : 0.2704
+HEADER 6  - Hydrophobicity Score              : -6.5000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.9210
+HEADER 10  -Pocket volume (convex hull)       : 2.8749
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   6522  NH1 ARG A 822      28.710  -2.207  24.962  0.50  7.66           N 0
+ATOM   6486   CB ALA A 818      28.838   2.152  25.965  0.00  0.00           C 0
+ATOM   4016  OD2 ASP A 516      23.295   3.425  18.995  0.00  0.00           O 0
+ATOM   4000  OD2 ASP A 514      20.363   1.248  21.553  0.00  0.00           O 0
+ATOM   6456    N ARG A 815      26.004   6.066  24.877  0.00  0.00           N 0
+ATOM   4001    N LEU A 515      19.214   4.968  22.239  0.63  1.09           N 0
+ATOM   6457   CA ARG A 815      27.026   5.659  23.909  0.00  0.00           C 0
+ATOM   6451    O ASP A 814      26.756   4.699  26.489  0.88  2.14           O 0
+ATOM   6460   CB ARG A 815      26.706   6.214  22.509  0.00  0.00           C 0
+ATOM   6461   CG ARG A 815      27.653   5.740  21.375  0.00  0.00           C 0
+ATOM   6452   CB ASP A 814      23.589   5.382  26.841  0.00  0.00           C 0
+ATOM   6450    C ASP A 814      25.977   5.561  26.109  0.00  0.00           C 0
+ATOM   6440   CB SER A 812      22.572   8.586  23.699  0.00  0.00           C 0
+ATOM   6415    O GLY A 809      22.853   8.238  20.203  0.46  2.14           O 0
+ATOM   3994   CA ASP A 514      18.937   2.823  23.324  0.00  0.00           C 0
+ATOM   3990    O SER A 513      19.645   2.261  25.992  0.52  5.36           O 0
+ATOM   6441   OG SER A 812      22.408   7.960  24.958  0.00  0.00           O 0
+TER
+END

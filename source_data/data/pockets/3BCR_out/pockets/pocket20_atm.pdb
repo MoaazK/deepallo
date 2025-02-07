@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0274
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8327
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6297
+HEADER 5  - Mean B-factor of pocket residues  : 0.6978
+HEADER 6  - Hydrophobicity Score              : 6.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.6331
+HEADER 10  -Pocket volume (convex hull)       : 4.3693
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   4114    O GLU A 528       1.077  14.152   8.794  0.00  0.00           O 0
+ATOM   4119  OE2 GLU A 528       1.080  16.243   4.453  0.26  8.57           O 0
+ATOM   4154  NH2 ARG A 532      -2.560  16.758   8.556  0.00  0.00           N 0
+ATOM   4148   CB ARG A 532       0.157  16.489  11.215  0.00  0.00           C 0
+ATOM   6285   CB PRO A 794       4.847  24.509   7.444  0.00  0.00           C 0
+ATOM   6284    O PRO A 794       7.185  22.134   7.758  0.00  0.00           O 0
+ATOM   4174   CB ALA A 535       4.426  20.593  12.671  0.00  0.00           C 0
+ATOM   6283    C PRO A 794       6.539  22.737   6.899  0.00  0.00           C 0
+ATOM   6327  OG1 THR A 798       7.392  20.787  10.185  0.81  5.36           O 0
+ATOM   6292   CB ARG A 795       5.274  20.254   4.418  0.00  0.00           C 0
+ATOM   4142  CG2 ILE A 531       4.717  17.116   8.312  0.00  0.00           C 0
+ATOM   6293   CG ARG A 795       5.334  18.746   4.146  0.00  0.00           C 0
+ATOM   6289   CA ARG A 795       6.130  20.700   5.612  0.00  0.00           C 0
+ATOM   4144    N ARG A 532       2.553  16.070  10.883  0.00  0.00           N 0
+ATOM   4145   CA ARG A 532       1.590  16.910  11.587  0.00  0.00           C 0
+ATOM   6288    N ARG A 795       6.024  22.144   5.825  0.14  1.09           N 0
+ATOM   4139    O ILE A 531       4.394  17.222  11.516  0.00  0.00           O 0
+TER
+END

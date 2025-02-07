@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0077
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9569
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6254
+HEADER 5  - Mean B-factor of pocket residues  : 0.5380
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.2898
+HEADER 10  -Pocket volume (convex hull)       : 4.3884
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   6155   CA GLU A 779      28.343  33.672   4.716  0.00  0.00           C 0
+ATOM   6157    O GLU A 779      26.325  32.608   5.462  0.75  1.07           O 0
+ATOM   6186   CB LYS A 782      24.509  34.264   2.395  0.00  0.00           C 0
+ATOM   6159   CG GLU A 779      30.144  32.316   3.517  0.00  0.00           C 0
+ATOM   6191    N CYS A 783      23.480  32.420   4.810  0.00  0.00           N 0
+ATOM   6222   NE ARG A 786      22.481  28.296   2.523  0.00  0.00           N 0
+ATOM   6195   CB CYS A 783      24.017  30.476   6.213  0.00  0.00           C 0
+ATOM   6192   CA CYS A 783      22.970  31.147   5.327  0.00  0.00           C 0
+ATOM   6161  OE1 GLU A 779      31.839  30.737   2.969  0.00  0.00           O 0
+ATOM   6160   CD GLU A 779      30.716  30.908   3.496  0.00  0.00           C 0
+ATOM   6190   NZ LYS A 782      27.814  35.354  -0.783  0.00  0.00           N 0
+ATOM   6189   CE LYS A 782      26.534  34.895  -0.154  0.00  0.00           C 0
+ATOM   6225  NH2 ARG A 786      23.698  27.099   4.071  0.00  0.00           N 0
+ATOM   5571   CB PHE A 711      27.629  29.316   7.216  0.00  0.00           C 0
+ATOM   6162  OE2 GLU A 779      30.050  29.970   4.004  0.00  0.00           O 0
+ATOM   5562    O ILE A 710      26.884  26.194   5.748  0.38  7.50           O 0
+TER
+END

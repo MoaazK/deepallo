@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0411
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1149
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5374
+HEADER 5  - Mean B-factor of pocket residues  : 0.4051
+HEADER 6  - Hydrophobicity Score              : 28.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.1978
+HEADER 10  -Pocket volume (convex hull)       : 2.1057
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   3126   CD GLU A 405      62.624  11.661  41.659  0.00  0.00           C 0
+ATOM   2758  CZ3 TRP A 361      58.257  10.112  43.534  0.00  0.00           C 0
+ATOM   3125   CG GLU A 405      61.097  11.728  41.627  0.00  0.00           C 0
+ATOM   2756  CE3 TRP A 361      58.751   8.804  43.523  0.00  0.00           C 0
+ATOM   3064  NH2 ARG A 398      58.252  11.629  48.651  0.53  6.56           N 0
+ATOM   3063  NH1 ARG A 398      59.083  13.758  48.481  0.72  6.56           N 0
+ATOM   3093   CA ILE A 402      56.958  14.695  43.729  0.00  0.00           C 0
+ATOM   3097  CG1 ILE A 402      56.055  13.297  45.605  0.00  0.00           C 0
+ATOM   3128  OE2 GLU A 405      63.280  12.655  42.053  0.41  9.64           O 0
+ATOM   3124   CB GLU A 405      60.533  13.146  41.660  0.00  0.00           C 0
+ATOM   3086    O GLN A 401      59.417  15.952  43.537  0.72  6.43           O 0
+ATOM   3087   CB GLN A 401      59.347  17.072  46.620  0.00  0.00           C 0
+ATOM   3090  OE1 GLN A 401      60.107  16.423  49.218  0.84  2.14           O 0
+TER
+END
