@@ -1,7 +1,7 @@
 # DeepAllo: Allosteric Site Prediction using Protein Language Model (pLM) with Multitask Learning
 ![Results](assets/detected-pockets.png)
 
-Implementation and Inference pipeline for [DeepAllo](https://www.biorxiv.org/content/10.1101/2024.10.09.617427v1)
+Implementation and Inference pipeline for [DeepAllo](https://www.biorxiv.org/content/10.1101/2024.10.09.617427v2)
 
 - [Quick Start](#quick-start)
 - [Results](#results)
@@ -38,11 +38,11 @@ pip install -r requirements.txt
 	author = {Khokhar, Moaaz and Keskin, Ozlem and Gursoy, Attila},
 	title = {DeepAllo: Allosteric Site Prediction using Protein Language Model (pLM) with Multitask Learning},
 	elocation-id = {2024.10.09.617427},
-	year = {2024},
+	year = {2025},
 	doi = {10.1101/2024.10.09.617427},
 	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2024/10/13/2024.10.09.617427},
-	eprint = {https://www.biorxiv.org/content/early/2024/10/13/2024.10.09.617427.full.pdf},
+	URL = {https://www.biorxiv.org/content/early/2025/02/07/2024.10.09.617427},
+	eprint = {https://www.biorxiv.org/content/early/2025/02/07/2024.10.09.617427.full.pdf},
 	journal = {bioRxiv}
 }
 ```
