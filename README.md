@@ -27,8 +27,8 @@ pip install -r requirements.txt
 
 ## Requirements
 1. [Anaconda](https://www.anaconda.com/products/distribution)
-2. [CUDA 11.3 or later](https://developer.nvidia.com/cuda-downloads)
-3. [PyTorch 1.12 or later](https://pytorch.org/get-started/locally/)
+2. [CUDA 11.8 or later](https://developer.nvidia.com/cuda-downloads)
+3. [PyTorch 2.2.2 or later](https://pytorch.org/get-started/locally/)
 4. [Jupyter Notebook](https://jupyter.org/)
 
 ## Citation
