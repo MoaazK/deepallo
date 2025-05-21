@@ -34,16 +34,17 @@ pip install -r requirements.txt
 ## Citation
 
 ```bibtex
-@article {Khokhar2024.10.09.617427,
-	author = {Khokhar, Moaaz and Keskin, Ozlem and Gursoy, Attila},
-	title = {DeepAllo: Allosteric Site Prediction using Protein Language Model (pLM) with Multitask Learning},
-	elocation-id = {2024.10.09.617427},
-	year = {2025},
-	doi = {10.1101/2024.10.09.617427},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2025/02/07/2024.10.09.617427},
-	eprint = {https://www.biorxiv.org/content/early/2025/02/07/2024.10.09.617427.full.pdf},
-	journal = {bioRxiv}
+@article{10.1093/bioinformatics/btaf294,
+    author = {Khokhar, Moaaz and Keskin, Ozlem and Gursoy, Attila},
+    title = {DeepAllo: Allosteric Site Prediction using Protein Language Model (pLM) with Multitask Learning},
+    journal = {Bioinformatics},
+    pages = {btaf294},
+    year = {2025},
+    month = {05},
+    issn = {1367-4811},
+    doi = {10.1093/bioinformatics/btaf294},
+    url = {https://doi.org/10.1093/bioinformatics/btaf294},
+    eprint = {https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaf294/63196710/btaf294.pdf},
 }
 ```
 ---
